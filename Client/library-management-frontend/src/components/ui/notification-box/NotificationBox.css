@@ -1,0 +1,11 @@
+.notification-box {
+    position: fixed;
+    top: 40px;
+    left: 40px;
+    z-index: 1060;
+    padding: 16px;  
+    color: white;
+    border-radius: 10px;
+    background-color: rgb(255, 62, 40, .7);
+    border: 1px solid #ff9e9e;
+}

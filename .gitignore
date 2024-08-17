@@ -1,0 +1,30 @@
+﻿# Client
+node_modules
+build/
+.vscode
+.vs
+
+# Server
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+appsettings.json
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.nuget.props
+*.nuget.targets
+.vs/
+*.[Pp]ublish.xml
+*.azurePubxml
+*.pubxml
+*.publishproj
+Client/library-management-frontend/.env

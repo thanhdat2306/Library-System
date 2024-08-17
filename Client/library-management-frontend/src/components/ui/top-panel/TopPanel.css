@@ -1,0 +1,18 @@
+.navbar-item {
+    background-color: transparent;
+    transition: background-color 0.3s ease-in-out, border-radius 0.3s ease-in-out;
+    border: none;
+}
+
+.dropdown-toggle.show,
+.navbar-item:hover,
+.dropdown-toggle:active {
+    background-color: rgb(85, 83, 83) !important;
+    border-radius: 15px !important;
+    border-color: rgb(85, 83, 83) !important;
+}
+
+.h3,
+.h4 {
+    margin-bottom: .4rem;
+}
