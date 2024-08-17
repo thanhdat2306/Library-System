@@ -31,7 +31,7 @@ This project is a Library Management System built using React for the frontend a
 ### Setup
 **1. Clone the Repository**
 ```
-git clone https://github.com/your-username/library-management-system.git
+git clone https://github.com/thanhdat2306/Library-System.git
 cd library-management-system
 ```
 
@@ -64,8 +64,4 @@ cd frontend
 npm start
 ```
 
-## Contributing
-Contributions are welcome! Please feel free to submit a pull request or open an issue to improve the project.
 
-## License
-This project is licensed under the MIT License.
