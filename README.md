@@ -32,7 +32,6 @@ This project is a Library Management System built using React for the frontend a
 **1. Clone the Repository**
 ```
 git clone https://github.com/thanhdat2306/Library-System.git
-cd library-management-system
 ```
 
 **2. Install Frontend Dependencies**
